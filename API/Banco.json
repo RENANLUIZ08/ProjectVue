@@ -1,0 +1,16 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "Nome": "Renan",
+      "Sobrenome": "Luiz Blasechi",
+      "Idade": "27 Anos"
+    },
+    {
+      "id": 2,
+      "Nome": "Hellen Caroline",
+      "Sobrenome": "Vieira de Lima",
+      "Idade": "27 Anos"
+    }
+  ]
+}
